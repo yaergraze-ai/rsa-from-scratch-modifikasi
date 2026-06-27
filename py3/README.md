@@ -1,3 +1,30 @@
+# Modifikasi dan Eksperimen RSA
+
+Repository ini merupakan hasil fork dari repository asli:
+
+https://github.com/kaushiksk/rsa-from-scratch
+
+Repository asli dibuat oleh pemilik repository tersebut. Pada project ini, kami hanya melakukan modifikasi/ekstensi untuk keperluan pembelajaran dan eksperimen.
+
+## Identitas Modifikasi
+
+Kelompok 6 - TI24D  
+Mata Kuliah: Matematika Diskrit
+
+Anggota:
+- Fatihatul Ikrimah (240511136)
+- Arya Bayu Kelana  (240511055)
+- Kana Nurhana      (240511088)
+
+## Bagian yang Dimodifikasi
+
+Kode utama RSA pada file `rsa.py` tetap menggunakan kode dari repository asli.
+
+Modifikasi/ekstensi dilakukan dengan menambahkan file:
+
+```text
+py3/main.py
+
 The code here has been exported into a python packag: [rsasim](https://github.com/kaushiksk/rsasim)
 Refer to that repo for latest changes and developments.
 
